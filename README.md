@@ -26,30 +26,36 @@ A Retrieval-Augmented Generation (RAG) tool that queries a vector database and p
 ### 1. Clone the Repository
 ```bash
 git clone <your-repo-link>
-cd <your-repo-folder>```
+cd <your-repo-folder>
+```
 
 ### 2. Create a Virtual Environment
 ```bash
 python -m venv .myenv
-source .myenv/bin/activate  # On Windows: .myenv\Scripts\activate```
+source .myenv/bin/activate  # On Windows: .myenv\Scripts\activate
+```
 
 ### 3. Install Dependencies
 ```bash
-pip install -r requirements.txt```
+pip install -r requirements.txt
+```
 
 ### 4. Environment Variables
 ```bash
-OPENAI_API_KEY=your_actual_key_here```
+OPENAI_API_KEY=your_actual_key_here
+```
 
 ## 🚀 Usage
 
 ### Run the CLI
 ```bash
-python main.py```
+python main.py
+```
 
 ### Run the Streamlit App
 ```bash
-streamlit run app.py```
+streamlit run app.py
+```
 
 ### What I fixed:
 - All command snippets are inside proper triple backticks
