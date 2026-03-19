@@ -57,14 +57,6 @@ python main.py
 streamlit run app.py
 ```
 
-### What I fixed:
-- All command snippets are inside proper triple backticks
-- Language tags (`bash`, `env`) are correctly applied
-- No broken or inline code blocks
-- Clean spacing so GitHub renders it perfectly
-
-If you want, I can also format it for **GitHub best practices (badges, screenshots, folder tree, etc.)**.
-
 ## 📁 Project Structure
 
 - `main.py`  
