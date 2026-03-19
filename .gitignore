@@ -4,3 +4,5 @@ venv/
 __pycache__/
 *.pyc
 .DS_Store
+logic/vector_db_rag_tutorial/
+logic/*.pdf
